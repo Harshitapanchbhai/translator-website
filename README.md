@@ -10,6 +10,15 @@ TRANSLATOR LOOKS LIKE:
 ## HOW TO USE :
 1. Enter the words or phrases which should be translated in enter box.
 2. Select the language into which it should be translated from the drop down box.
-
 3. Translate button should be pressed.
 4. The translated words will be displayed on the screen. 
+
+
+
+<img width="378" alt="Screenshot 2021-06-29 203743" src="https://user-images.githubusercontent.com/86656428/123822461-f1425c80-d919-11eb-970e-d5083bc9148c.png">
+
+
+
+
+## Showing " TRY ANOTHER KEYWORD"
+- It is inappropriate word so try typing another word or phrase .
