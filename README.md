@@ -30,3 +30,7 @@ TRANSLATOR LOOKS LIKE:
 - Press on exit button .
 - Pop-up message will appear , click "Yes" to exit or "No" to go to previous page.
    - instead of "No" even "Cancel" can be used.
+
+
+
+<img width="376" alt="Screenshot 2021-06-29 205750" src="https://user-images.githubusercontent.com/86656428/123825700-c3124c00-d91c-11eb-9f21-faa186726123.png">
