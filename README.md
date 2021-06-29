@@ -1,3 +1,4 @@
+PROCEDURE:
 1. Enter the something which should be translated in enter box.
 2. Select the language from the drop down box
 3. Click should be pressed.
