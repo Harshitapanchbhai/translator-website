@@ -22,3 +22,11 @@ TRANSLATOR LOOKS LIKE:
 
 ## Showing " TRY ANOTHER KEYWORD"
 - It is inappropriate word so try typing another word or phrase .
+
+<img width="376" alt="Screenshot 2021-06-29 204536" src="https://user-images.githubusercontent.com/86656428/123823720-14b9d700-d91b-11eb-9295-f8b5fa1a9ea4.png">
+
+
+## HOW TO EXIT :
+- Press on exit button .
+- Pop-up message will appear , click "Yes" to exit or "No" to go to previous page.
+   - instead of "No" even "Cancel" can be used.
