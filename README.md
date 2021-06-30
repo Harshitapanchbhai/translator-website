@@ -1,5 +1,5 @@
 # LANGUAGE TRANSLATOR
-Language translator instantly translates words and  phrases from English to  other languages.
+Language translator instantly translates words and  phrases from one language to another.
 
 TRANSLATOR LOOKS LIKE:
 
